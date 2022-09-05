@@ -30,6 +30,7 @@ app.use(express.json());
 
 // routes
 app.use("/api/users", userRoutes);
+
 app.use("/api/auth", authRoutes);
 
 const port = 8080;

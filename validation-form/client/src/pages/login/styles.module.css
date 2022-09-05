@@ -2,7 +2,8 @@
 	width              : 100%;
 	min-height         : 100vh;
 	/* background-color: #f5f5f5; */
-	background-image   : url("D:\Documents\reactWeb\validation-form\client\public\forest.jpg");
+	background-image   : url("E:\Documents\Beetech\validation-form\client\public\images\login.png");
+	background-size    : 1900px;
 	display            : flex;
 	align-items        : center;
 	justify-content    : center;

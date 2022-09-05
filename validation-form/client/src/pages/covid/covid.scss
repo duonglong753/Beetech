@@ -1,0 +1,23 @@
+.covid {
+    display: flex;
+
+    .covidContainer {
+        flex: 6;
+
+        .content {
+            padding: 20px;
+        }
+    }
+}
+
+.w-auto {
+    width: auto;
+}
+
+.mr-3 {
+    margin-right: 0.75rem;
+}
+
+.h-12 {
+    height: 3rem;
+}
